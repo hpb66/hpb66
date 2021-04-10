@@ -1,6 +1,6 @@
 ### Hi there, I am Hriday 👋
 
-[![Website](https://img.shields.io/website?down_color=red&down_message=Down&label=thehazarika.com&style=for-the-badge&up_message=UP&url=http%3A%2F%2Fthehazarika.com)](https://thesortingfactory.com)
+[![Website](https://img.shields.io/website?down_color=red&down_message=Down&label=thesortingfactory.com&style=for-the-badge&up_message=UP&url=http%3A%2F%2Fthesortingfactory.com)](https://thesortingfactory.com)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hridaypratim/)
 
 ## I am a Developer and a gamer.
